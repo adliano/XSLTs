@@ -1,0 +1,9 @@
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogOne.xslt -o:cdsOne.html
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogTwo.xslt -o:cdsTwo.html
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogThree.xslt -o:cdsThree.html 
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogFour.xslt -o:cdsFour.html
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogFive.xslt -o:cdsFive.html
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogSix.xslt -o:cdsSix.html
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogSeven.xslt -o:cdsSeven.html 
+tiger/home/adliano/Codes/XMLs/HW5/> java net.sf.saxon.Transform -s:cd_catalog.xml -xsl:cdCatalogEight.xslt -o:cdsEight.html 
+tiger/home/adliano/Codes/XMLs/HW5/>
